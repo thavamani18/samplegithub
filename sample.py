@@ -13,3 +13,4 @@ x=30
 y=10
 s=x-y
 print("The subtration of the values",s)
+print("The subtration of the values")
